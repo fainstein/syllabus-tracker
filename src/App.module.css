@@ -1,0 +1,9 @@
+.syllabus-container{
+    padding: 3% 7%;
+}
+
+@media  (max-width: 991px) {
+    .syllabus-container{
+        padding: 3%;
+    }    
+}
