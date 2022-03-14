@@ -8,10 +8,10 @@ const Syllabus = (props) => {
   return (
     <Card className={styles.container}>
       <CareerInfo
-        careerName={props.universidad.titulo}
+        careerName={props.universidad.nombre}
         university={props.universidad.acronimo}
       ></CareerInfo>
-      <CareerLevels levelInfo={props.plan}></CareerLevels>
+      <CareerLevels levels={props.plan}></CareerLevels>
     </Card>
   );
 };

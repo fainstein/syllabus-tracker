@@ -1,0 +1,14 @@
+.subjects-container{
+    display: flex;
+    flex-direction: column;
+    padding: 1.5%;
+}
+
+.level-container{
+    width: 100%;
+}
+
+.level-title{
+text-align: center;
+}
+

@@ -1,0 +1,7 @@
+.levels-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* flex-shrink: 0; */
+
+}

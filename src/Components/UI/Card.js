@@ -3,7 +3,7 @@ import styles from "./Card.module.css";
 
 const Card = (props) => {
   const classes = props.className + " " + styles.card;
-  return <div className={classes}>{props.children}</div>;
+  return <div className={classes} onClick={props.onClick}>{props.children}</div>;
 };
 
 export default Card;
