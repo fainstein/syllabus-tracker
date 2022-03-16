@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/syllabus-tracker/static/css/main.afdc6365.css",
+    "main.js": "/syllabus-tracker/static/js/main.c637f054.js",
+    "index.html": "/syllabus-tracker/index.html",
+    "main.afdc6365.css.map": "/syllabus-tracker/static/css/main.afdc6365.css.map",
+    "main.c637f054.js.map": "/syllabus-tracker/static/js/main.c637f054.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afdc6365.css",
+    "static/js/main.c637f054.js"
+  ]
+}
