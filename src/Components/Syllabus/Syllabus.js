@@ -8,7 +8,7 @@ const Syllabus = (props) => {
   return (
     <Card className={styles.container}>
       <CareerInfo
-        careerName={props.universidad.nombre}
+        careerName={props.plan.titulo}
         university={props.universidad.acronimo}
       ></CareerInfo>
       <CareerLevels levels={props.plan}></CareerLevels>
